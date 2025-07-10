@@ -42,10 +42,6 @@ ol, ul {
 	list-style: none;
 }
 
-#Diagrama{
-	width: 65%;
-	height: 800px;
-}
 
 
 blockquote, q {
@@ -4899,7 +4895,7 @@ input, select, textarea {
 			-webkit-flex-shrink: 0;
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
-			width: 35%;
+			width:50%;
 			min-width: 25rem;
 			border-radius: 0;
 		}
